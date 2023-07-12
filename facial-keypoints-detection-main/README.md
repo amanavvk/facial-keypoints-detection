@@ -53,7 +53,7 @@ The Facial Keypoints Detection project finds applications in various domains, in
 
 To get started with the Facial Keypoints Detection project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/bhavikmk/keypoints-detection.git`
+1. Clone the repository: `git clone https://github.com/amanavvk/facial-keypoints-detection-main.git`
 
 2. Install the dependencies
 
