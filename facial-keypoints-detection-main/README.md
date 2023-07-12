@@ -1,6 +1,6 @@
 # Facial Keypoints Detection
 
-https://github.com/bhavikmk/keypoints-detection/assets/72643864/c389cefd-8dd9-4ef5-850a-6398d56e5bf4
+https://github.com/amanavvk/keypoints-detection/assets/72643864/c389cefd-8dd9-4ef5-850a-6398d56e5bf4
 
 
 
